@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/Money188</id>
+  <link type="text/html" rel="alternate" href="https://github.com/Money188"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/Money188.private.atom?token=APH3HZUZP6LL472A4REDLJ55VRQZO"/>
+  <title>Private Feed for Money188</title>
+  <updated>2020-04-19T01:07:55-04:00</updated>
+</feed>
